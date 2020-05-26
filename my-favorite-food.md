@@ -1,9 +1,9 @@
 # Let's Taco 'bout it
-![An image of a taco] (https://images.app.goo.gl/o6kvbZngjoJDp3Ar5)
+![An image of a taco](https://images.app.goo.gl/o6kvbZngjoJDp3Ar5)
 
 Tacos are native to Mexico, my hometown! In my hometown of Guadalajara, I can get tacos for $6 pesos each. That's about 30 cents, wow! I can usually eat 6 tacos in one sitting. Here are my favorite taco flavors in order:
 
-##Tacos, Ranked
+## Tacos, Ranked
 1. Asada
 2. Cabeza
 3. Lengua
@@ -11,7 +11,7 @@ Tacos are native to Mexico, my hometown! In my hometown of Guadalajara, I can ge
 
 Tacos are great with toppings! Here are some of my favorite:
 
-##Toppings
+## Toppings
 * Cilantro
 * Radish
 * Lime
