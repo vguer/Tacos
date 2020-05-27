@@ -1,5 +1,5 @@
 # Let's Taco 'bout it
-![An image of a taco](https://images.app.goo.gl/o6kvbZngjoJDp3Ar5)
+![An image of a taco](https://www.halfbakedharvest.com/wp-content/uploads/2017/12/Slow-Cooker-Spicy-Pineapple-Chicken-Tacos-4.jpg)
 
 Tacos are native to Mexico, my hometown! In my hometown of Guadalajara, I can get tacos for $6 pesos each. That's about 30 cents, wow! I can usually eat 6 tacos in one sitting. Here are my favorite taco flavors in order:
 
