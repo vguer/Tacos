@@ -1,6 +1,6 @@
 # My Favorite Food
 
-#### Markdown Exercise for Epicodus, 5/26/2020
+#### Markdown Exercise for Epicodus, 5/27/2020
 
 #### By **Vanessa Guerrero**
 
